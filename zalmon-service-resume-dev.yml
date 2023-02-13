@@ -2,4 +2,4 @@ mysql:
   url: jdbc:mysql://localhost:3306/spring?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
   driver-class-name: com.mysql.jdbc.Driver
   username: root
-  password: root
+  password: 123456
